@@ -18,6 +18,7 @@
 *.jpg
 
 # misc
+description.txt
 .DS_Store
 .env.local
 .env.development.local
