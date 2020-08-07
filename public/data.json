@@ -1,0 +1,57 @@
+[
+  {
+    "prodId": "0001",
+    "fileName":"phone1.jpg",
+    "description": "Phone model 1",
+    "stock": 5,
+    "favorites": true,
+    "fullPrice": 150,
+    "discount": 25,
+    "price":130,
+    "reviews": 4.9
+  },
+  {
+    "prodId": "0002",
+    "fileName":"phone2.jpg",
+    "description": "Phone model 2",
+    "stock": 4,
+    "favorites": false,
+    "fullPrice": 100,
+    "discount": 0,
+    "price":100,
+    "reviews": 4.5
+  },
+  {
+    "prodId": "0003",
+    "fileName":"phone3.jpg",
+    "description": "Phone model 3",
+    "stock": 34,
+    "favorites": false,
+    "fullPrice": 250,
+    "discount": 20,
+    "price":200,
+    "reviews": 3
+  },
+  {
+    "prodId": "0004",
+    "fileName":"phone4.jpg",
+    "description": "Phone model 4",
+    "stock": 63,
+    "favorites": true,
+    "fullPrice": 100,
+    "discount": 25,
+    "price":75,
+    "reviews": 4.3
+  },
+  {
+    "prodId": "0005",
+    "fileName":"phone5.jpg",
+    "description": "Phone model 5",
+    "stock": 0,
+    "favorites": false,
+    "fullPrice": 120,
+    "discount": 0,
+    "price": 120,
+    "reviews": 3
+  }
+]
